@@ -1,0 +1,2 @@
+# startup
+starting angular project
